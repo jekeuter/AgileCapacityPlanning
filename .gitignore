@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Logs
+*.log
+
+# MacOS-specific files
+.DS_Store
+
+# Temporary files
+*.tmp
+
+# Data files
+# *.csv
+# *.xlsx
+# *.json
+
+# Deployment artifacts
+*.zip
+
+
