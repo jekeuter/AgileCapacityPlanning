@@ -11,3 +11,6 @@ venv/
 .env
 *.log
 *.tmp
+
+# files
+ado.py
