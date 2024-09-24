@@ -1,0 +1,11 @@
+streamlit
+streamlit_authenticator
+pandas
+openpyxl
+pandas
+yaml
+requests
+numpy
+re
+pyyaml
+

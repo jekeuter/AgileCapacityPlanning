@@ -1,0 +1,29 @@
+cookie:
+  expiry_days: 30
+  key: your_cookie_key
+  name: your_cookie_name
+credentials:
+  usernames:
+    j2k2:
+      email: jens.keuter@gmail.com
+      logged_in: false
+      name: Jens
+      password: $2b$12$9KZBNyaCSB8EmjoaM/F3t.jFSY7TpVuyF2Xk26MH2afTuj54EOTCu #Racaille&1899
+      role: Editor
+    user1:
+      email: user1@example.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: User One
+      password: $2b$12$28FNQ/cYstR4JAXXiKlEoOu3dnrD7o0ZEWHLs3PlqWwplu1VUyH06
+      role: Viewer
+    user2:
+      email: user2@example.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: User Two
+      password: $2b$12$r/8ix.FOrf/3I0rkF2A0iuJ2c8dN55W8lPJ9WH1EDEa.1M1XKwIZC
+      role: Editor
+pre-authorized:
+  emails:
+  - newuser@example.com
